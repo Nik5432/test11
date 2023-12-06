@@ -8,5 +8,8 @@ public class Main {
         System.out.println("4 приветствие");
         System.out.println("3 приветствие");
         System.out.println("5 приветствие");
+        System.out.println("6 приветствие");
+        System.out.println("7 приветствие");
+        System.out.println("10 приветствие");
     }
 }
